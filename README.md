@@ -16,7 +16,7 @@
 ### 🔬 Research
 
 - 📄 **Mitigating Gender Bias in LLMs through Prompt-Level Fairness Intervention**
-  Developed a fairness pipeline that reduced gender bias scores by ~96% using prompt-level intervention — no model retraining needed. *(Under Dr. Rupa Mehta)*
+  Developed a fairness pipeline that reduced gender bias scores by ~96% using prompt-level intervention - no model retraining needed. *(Under Dr. Rupa Mehta)*
 
 - 📄 **Explainable AI for EEG Analysis**
   Working on identifying important features and channels in EEG reports before and after cross-patient generalization. Initial part of this project also involves seizure detection. *(Under professor Abhilasha Chaudhury)*
