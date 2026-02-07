@@ -21,7 +21,7 @@
 - 📄 **Explainable AI for EEG Analysis**
   Working on identifying important features and channels in EEG reports before and after cross-patient generalization. Initial part of this project also involves seizure detection. *(Under professor Abhilasha Chaudhury)*
 
-- Apart from research projects, I like building stuff on my own. I have worked on projects using MERN stack, GenAI, ML, openCV and powerBI dashboard analysis.
+- Apart from research projects, I like building stuff on my own. I have worked on projects using MERN stack, GenAI, ML, OpenCV and PowerBI dashboard analysis.
 
 ---
 
