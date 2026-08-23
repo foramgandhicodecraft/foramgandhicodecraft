@@ -6,7 +6,7 @@
 ---
 
 ### 🧠 About Me
-- 🎓 3rd Year B.Tech in Computer Science @ **NIT Surat**
+- 🎓 B.Tech in Computer Science '27 @ **NIT Surat**
 - 🔬 I like playing badminton and reading murder mysteries when I am not coding
 
 ---
